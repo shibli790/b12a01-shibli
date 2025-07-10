@@ -21,7 +21,7 @@ span{
 .btn:hover{
     transform: translateY(-5%);
     color: rgb(0, 0, 0);
-    background-color: rgb(20, 243, 232);
+    background-color: rgb(127, 255, 249);
 }
 .btn{
     background-color: #4E47FF;

@@ -14,6 +14,15 @@
     color: #4E47FF;
 }
 
+span{
+    color: rgb(239, 121, 3);
+}
+
+.btn:hover{
+    transform: translateY(-5%);
+    color: rgb(0, 0, 0);
+    background-color: rgb(20, 243, 232);
+}
 .btn{
     background-color: #4E47FF;
     color: aliceblue;
@@ -257,12 +266,39 @@ main{
 
 
 /* form saction end */
+.footer{
+    text-align: center;
+    
+}
+
+.fotter-main{
+    font-size: 100px;
+    font-weight:bold;
+    color: #4E47FF;
+}
 
 
+.footer-title{
+
+padding: 40px;
+}
+
+.footer-title a{
+    text-decoration: none;
+    margin: 20px;
+    font-size: 24px;
+    font-weight: 400px;
+    color: #62625d;
+    
+    
+}
 
 
-
-
+.copyright{
+    padding: 50px;
+    border-top: 0px;
+    
+}
 
 /* footer saction start */
 

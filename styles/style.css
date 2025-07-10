@@ -1,0 +1,270 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* share item */
+
+.logo{
+    font-size:34px ;
+    font-weight: bolder;
+    color: #4E47FF;
+}
+
+.btn{
+    background-color: #4E47FF;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+}
+
+.color-1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #252432;
+}
+
+.color-2{
+    font-size: 24px;
+    font-weight: 400px;
+    color: #62625d;
+}
+
+
+
+.textalineall{
+    text-align: center;
+
+}
+
+
+
+
+
+/* nabvar start */
+
+.navbar{
+    /* background-color: burlywood; */
+    background-image: url(../Assets/Hero-bg.png);
+}
+
+.headrr{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;
+    padding: 50px 50px;
+    font-size: 40px;
+    font-weight: 700px;
+
+}
+
+.hero-section{
+    text-align: center;
+    margin: 300px 260px 150px 260px;
+}
+
+
+.hero-section h1{
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.hero-section button{
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+/* nabvar send  */
+
+
+
+
+
+/* main section  */
+main{
+    max-width: 1140px;
+    margin: 130px auto;
+}
+
+
+/* action--seaction start  */
+
+.action-section{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.action-content button{
+    margin-top: 10px;
+}
+
+.action-image img {
+    border-radius: 48px;
+    border: none;
+}
+
+/* action--seaction end  */
+
+
+
+/* flow---secation start */
+.flow-section {
+    text-align: center;
+    padding: 80px 5px;
+    background-color: #deddf0;
+    border-radius: 30px;
+    margin-top: 125px;
+    margin-bottom: 125PX;
+}
+
+.flow-section h2 {
+    font-size: 38px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+.flow-betwen {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap:wrap;
+}
+
+
+.number{
+    font-size: 80px;
+    font-weight: bolder;
+    color: #4E47FF;
+}
+
+.caption{
+    font-size: 20px;
+    font-weight: 400px;
+    color: #62625d;
+}
+
+
+/* flow---secation end */
+
+
+/* secaationskill start  */
+
+.testimonial-card{
+    display: flex;
+    gap: 24px;
+    padding: 10px;
+    box-shadow: #252432;
+    
+}
+
+
+.stars{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff1f1;
+    border: none;
+    
+}
+
+.stars img{
+    padding: 5px;
+    border-radius: 50%;
+}
+/* secaation skill end  */
+
+
+
+
+/*OPTIONAL start*/
+.focus-section{
+    text-align: center;
+    padding: 80px 5px;
+    background-color: #deddf0;
+    border-radius: 30px;
+    margin-top: 125px;
+    margin-bottom: 125PX;
+}
+
+.OPTIONAL{
+   
+    text-align: center;
+    margin-top: 10px;  
+    
+}
+
+.OPTIONAL button{
+    margin-top: 20px;
+}
+
+.focus-section img {
+    margin-top: 50px;
+    border-radius: 48px;   
+}
+
+
+/*OPTIONAL END */
+
+
+/* form saction start */
+
+.contact-secation{
+    display: flex;
+    padding: 80px 5px;
+    background-color: #deddf0;
+    border-radius: 30px;
+    margin-top: 125px;
+    margin-bottom: 125PX;
+    
+    justify-content: space-around   
+}
+
+
+
+.contact-taitle{
+    font-size: 60px;
+    font-weight: 700px;
+    margin-left: 0px;
+}
+
+
+.contact label{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.contact input{
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact textarea{
+    border-radius: 5px;
+}
+
+.contact button{
+    padding: 10px 50px 10px 50px;
+}
+
+
+/* form saction end */
+
+
+
+
+
+
+
+/* footer saction start */
+
+
+

@@ -164,7 +164,7 @@ main{
 
 /* secaationskill start  */
 
-.testimonial-card{
+.test-card{
     display: flex;
     gap: 24px;
     padding: 10px;
@@ -185,7 +185,23 @@ main{
 .stars img{
     padding: 5px;
     border-radius: 50%;
+    
 }
+
+.disply{
+    display: inline;
+}
+
+
+.nevi{
+    border: none;
+    margin-left: 55px;
+}
+
+.nevii{
+    border: none;
+}
+
 /* secaation skill end  */
 
 
@@ -266,6 +282,10 @@ main{
 
 
 /* form saction end */
+
+
+
+/* footer saction start */
 .footer{
     text-align: center;
     
@@ -300,7 +320,7 @@ padding: 40px;
     
 }
 
-/* footer saction start */
+/* footer saction End */
 
 
 

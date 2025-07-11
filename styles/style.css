@@ -52,6 +52,10 @@ span{
 
 }
 
+body{
+    background-color: #f5f8ff;
+}
+
 
 
 
@@ -126,7 +130,7 @@ main{
 .flow-section {
     text-align: center;
     padding: 80px 5px;
-    background-color: #deddf0;
+    background-color: #e5e7ff;
     border-radius: 30px;
     margin-top: 125px;
     margin-bottom: 125PX;
@@ -177,7 +181,7 @@ main{
     border: 2px solid black;
     padding: 20px;
     border-radius: 10px;
-    background-color: #fff1f1;
+    background-color: #fafcff;
     border: none;
     
 }
@@ -211,7 +215,7 @@ main{
 .focus-section{
     text-align: center;
     padding: 80px 5px;
-    background-color: #deddf0;
+    background-color: #ffffff;
     border-radius: 30px;
     margin-top: 125px;
     margin-bottom: 125PX;
@@ -242,7 +246,7 @@ main{
 .contact-secation{
     display: flex;
     padding: 80px 5px;
-    background-color: #deddf0;
+    /* background-color: #deddf0; */
     border-radius: 30px;
     margin-top: 125px;
     margin-bottom: 125PX;
@@ -288,6 +292,8 @@ main{
 /* footer saction start */
 .footer{
     text-align: center;
+    background-color: #ffffff;
+
     
 }
 
